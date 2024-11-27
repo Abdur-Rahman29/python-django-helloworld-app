@@ -1,5 +1,6 @@
 from django.http import HttpResponse
 
-def index(request):
+def index(requests):
     return HttpResponse("Hello, world!")
-print("Executed")
+print("Executedii")
+print(HI)
