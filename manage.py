@@ -9,7 +9,7 @@ def main():
     tre
     except ImportError as exc:
         raise ImportError(
-""
+"you shall happen"
         ) from exc
     execute_from_command_line(sys.argv)
 
